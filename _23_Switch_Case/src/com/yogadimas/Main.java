@@ -9,7 +9,7 @@ public class Main {
         Scanner inputUser = new Scanner(System.in);
         System.out.print("Panggil Nama : ");
         input = inputUser.next();
-        // ekspresinya berupa satuan (int,long,byte,short, String, atau enum)
+        // ekspresinya berupa satuan (int,long,byte,short, String, atau enum) char tidak bisa
         switch (input) {
             case "yoga" :
                 System.out.println("saya yoga dan hadir Bos!!!");
