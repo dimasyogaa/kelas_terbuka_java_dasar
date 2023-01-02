@@ -34,8 +34,8 @@ public class Main {
         int y = 4;
         float z = (float)x/y;
 
-        // float / int = float
-        // salah satu bagi float maka hasilnya float
+        // int / int = (float) int -> float
+        // hasilnya float
         System.out.printf("%d / %d = %f",x,y,z);
     }
 
