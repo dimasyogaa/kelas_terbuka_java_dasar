@@ -81,6 +81,8 @@ cmake-build-*/
 
 # IntelliJ
 out/
+!_54_IOStream_Input_File/out
+!_54_IOStream_Input_File.jar
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
