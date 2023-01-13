@@ -1,0 +1,7 @@
+ini adalah contoh dari byte stream
+
+* 1 karakter akan diambil sebagai 1 byte
+* 1 karakter bernilai 8 bit
+* i = 105
+* n = 110
+* -1 -> tidak ada nilainya
